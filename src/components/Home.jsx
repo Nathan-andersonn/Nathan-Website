@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "./Header";
 import Hero from "./Hero";
 import About from "./About";
@@ -9,7 +8,7 @@ import Education from "./Education";
 import Contact from "./Contact";
 import Footer from "./Footer";
 
-export default function Main() {
+export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
       <Header />
