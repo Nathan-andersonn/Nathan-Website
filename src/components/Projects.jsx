@@ -7,7 +7,7 @@ const projects = [
     title: "Aidvisor",
     description: "Full-stack prototype web application to provide academic advising assistance for students utilising LLM models to answer questions, suggest courses, and plan academic paths.",
     image: aidvisorImage,
-    technologies: ["React", "Node.js", "MongoDB", "LLM Models"],
+    technologies: ["React", "Node.js", "MongoDB", "LLM Models", "Tailwind CSS"],
     githubUrl: "https://github.com/Nathan-andersonn/aidvisor-proto-dash",
     featured: false
   },
@@ -74,7 +74,7 @@ export default function Projects() {
                   {project.description}
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
-                  {project.technologies.slice(0, 3).map((tech, index) => (
+                  {project.technologies.slice(0, 5).map((tech, index) => (
                     <span 
                       key={index}
                       className="bg-slate-600/50 text-slate-300 px-2 py-1 rounded text-xs"
