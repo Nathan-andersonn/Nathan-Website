@@ -233,7 +233,7 @@ export default function Contact() {
                   onChange={handleChange}
                   rows={5}
                   className="w-full px-4 py-3 bg-slate-700/50 border border-slate-600 rounded-lg text-white placeholder-slate-400 focus:outline-none focus:border-blue-400 transition-colors duration-200 resize-none"
-                  placeholder="Tell me about your project or just say hello!"
+                  placeholder="Type your message here!"
                   required
                 ></textarea>
               </div>
