@@ -62,7 +62,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Resources</h4>
             <ul className="space-y-2">
-              <li><a href="https://github.com/Nathan-andersonn/Resume/blob/main/Nathans_Resume_F25.pdf" className="text-slate-400 hover:text-white transition-colors duration-200">Resume</a></li>
+              <li><a href="https://github.com/Nathan-andersonn/Resume/blob/main/Nathan_Resume_Fall2025.pdf" className="text-slate-400 hover:text-white transition-colors duration-200">Resume</a></li>
             </ul>
           </div>
         </div>
