@@ -55,7 +55,7 @@ export default function About() {
               <div className="text-slate-300 transition-colors duration-300 group-hover:text-white">Projects</div>
             </div>
             <div className="bg-slate-700/50 p-6 rounded-lg text-center transform transition-all duration-500 hover:bg-slate-600/50 hover:scale-105 hover:-translate-y-2 hover:shadow-2xl hover:shadow-green-500/20 group cursor-pointer" style={{ transitionDelay: '0.2s' }}>
-              <div className="text-3xl font-bold text-green-400 mb-2 transition-all duration-300 group-hover:scale-125 group-hover:text-green-300">2</div>
+              <div className="text-3xl font-bold text-green-400 mb-2 transition-all duration-300 group-hover:scale-125 group-hover:text-green-300">3+</div>
               <div className="text-slate-300 transition-colors duration-300 group-hover:text-white">Years Experience</div>
             </div>
             <div className="bg-slate-700/50 p-6 rounded-lg text-center transform transition-all duration-500 hover:bg-slate-600/50 hover:scale-105 hover:-translate-y-2 hover:shadow-2xl hover:shadow-yellow-500/20 group cursor-pointer" style={{ transitionDelay: '0.3s' }}>
